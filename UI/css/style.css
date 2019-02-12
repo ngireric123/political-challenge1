@@ -2,11 +2,13 @@
 	margin: 0px;
 	padding: 0px;
 }
+
 body {
   height: 100vh;
   background-size: cover;
   background-position: center;
 }
+
 img {
 	display: block;
 	width: 100%;
@@ -18,10 +20,12 @@ img {
   padding: 7% 0 0;
   margin: auto;
 }
+
 .text_sign_up {
   font-family: "Roboto", sans-serif;
   font-size: 22px;
 }
+
 .form {
   position: relative;
    z-index: 1;
@@ -30,8 +34,8 @@ img {
   margin: 0 auto 100px;
   padding: 35px;
   text-align: center;
-
 }
+
 .form input {
   font-family: "Roboto", sans-serif;
   outline: 1;
@@ -43,6 +47,7 @@ img {
   box-sizing: border-box;
   font-size: 14px;
 }
+
 .form textarea {
   font-family: "Roboto", sans-serif;
   outline: 1;
@@ -55,20 +60,15 @@ img {
   font-size: 14px;
 }
 
-/*a:link, a:visited  {
-  text-decoration: none;
-  color: white;
-}*/
 h1, h2, h3 {
 	margin: 0;
 	padding: 1em 0;
 }
 p {
+	font-size: 21px;
 	margin: 0;
 	padding: 1em 0;
 }
-
-
 
 .message {
   font-family: "Roboto", sans-serif;
@@ -86,7 +86,6 @@ p {
   cursor: pointer;
 }
 
-
 .headerIndex {
 	background-color:#4CAF50;
 	color: white;
@@ -100,6 +99,7 @@ p {
 	font-size: 30px;
   font-family: "Roboto", sans-serif;
 }
+
  a:link, a:visited  {
   text-decoration: none;
   color: white;
@@ -189,7 +189,6 @@ p {
 
 .dropdown-content a:hover {
   background-color: #ddd;
-
 }
 
 .dropdown:hover .dropdown-content {
@@ -217,7 +216,6 @@ header.topbar {
   float: right;
   font-size: 17px;
 }
-/* main*/
 
 .title {
   padding: 1em 2em;
@@ -407,16 +405,20 @@ header.topbar {
   	z-index: -1;
   	color: black;
   }
-  #showcase .background-image {
+
+ #showcase .background-image {
   opacity: 0.2;
 }
+
   #showcase.grid {
   	color: black;
   }
+
   #showcase.grid {
   	color: black;
-  	height: 510px;
+  	height: 710px;
   }
+
   #showcase h1 {
 	padding-top: 100px;
 	padding-bottom: 0;
@@ -437,6 +439,7 @@ header.topbar {
     right: 0;
     top: 0;
   }
+
   .topnav.responsive a {
     float: none;
     display: block;
