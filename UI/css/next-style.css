@@ -66,8 +66,6 @@ header a.minimize_button {
 	padding: 20px 10px;
 	border-bottom: 1px solid white;
 	background-color: #4CAF50;
-
-
 }
 
 .side-nav ul li a {
@@ -87,9 +85,7 @@ header a.minimize_button {
 	color: white;
 	font-size: 22px;
 }
-
 /* main content styles */
-
 .main-content {
 	margin-top: 0;
 	margin-left: 0;
@@ -371,8 +367,6 @@ table tbody tr td {
 button {
 	cursor: pointer;
 }
-
-
 
 .tablelink {
 	font-weight: bolder;
