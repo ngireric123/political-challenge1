@@ -65,10 +65,9 @@ h1, h2, h3 {
 }
 p {
 	margin: 0;
-	padding: 1em 0;
+/*	padding: 1em 0;*/
+font-size: 20px;
 }
-
-
 
 .message {
   font-family: "Roboto", sans-serif;
@@ -189,7 +188,6 @@ p {
 
 .dropdown-content a:hover {
   background-color: #ddd;
-
 }
 
 .dropdown:hover .dropdown-content {
@@ -415,11 +413,11 @@ header.topbar {
   }
   #showcase.grid {
   	color: black;
-  	height: 510px;
+  	height: 780px;
   }
   #showcase h1 {
 	padding-top: 100px;
-	padding-bottom: 0;
+	padding-bottom: 25px;
 }
 
 @media screen and (max-width: 600px) {
